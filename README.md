@@ -175,7 +175,7 @@ SECCIÓN 6–10 Localización de fallas
 
 ![image](https://user-images.githubusercontent.com/116677175/203892744-7100c2bc-30dc-47a4-8911-146a0da3a2b1.png)
 
-VIDEO: 
+VIDEO: https://youtu.be/ZwCUj5LDpEs 
 
 CONCLUSIONES:Al realizar este informe se pudo comprender de mejor manera las leyes de kirchhoff y sus aplicaciones, otro tema relevante fueron los circuitos series y paralelos, trabaamos con problemas planteados en el libro de floyd y se a entendido sus diferencias y características para resolver los ejercicios para el informe, fue de gran importancia saber la ley de Ohm, se trabajo con los calculos de corriente, voltaje y resistencia, tomando en cuenta el circuito y las situaciones.
 
