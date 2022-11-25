@@ -1,4 +1,4 @@
-# INFORME-Nro-3-Jos-Pilaguano-
+# INFORME-Nro-3-Jose-Pilaguano-
 
 UNIVERSIDAD DE LAS FUERZAS ARMADAS "ESPE"
 
